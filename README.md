@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# Books App Astro
 
 ```sh
 npm create astro@latest -- --template basics
